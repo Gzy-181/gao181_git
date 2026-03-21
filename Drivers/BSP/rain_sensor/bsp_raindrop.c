@@ -116,7 +116,7 @@ uint8_t bsp_raindrop_get_percent(void)
     uint8_t current_len = strlen(buf);
     
     // 发送符合协议的数据帧
-    //uart_send_frame(0x04, (float)pct); // 雨滴传感器数据，使用类型 0x04
+    uart_send_frame(0x05, (float)pct); // 雨滴传感器数据，使用类型 0x05
     
     // 只有当新字符串长度比上一次短时，才清除该行
     if (current_len < last_rain_str_len) {
