@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-91d1950d840e2ea4bac9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "weacon",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "weacon::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-weacon-Debug-959dcaa2923e91715d2f.json",
+					"name" : "weacon",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "weacon_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-weacon_autogen-Debug-9b7e768eea3962b561a4.json",
+					"name" : "weacon_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "weacon_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-weacon_autogen_timestamp_deps-Debug-21b5a829190fefe73d67.json",
+					"name" : "weacon_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/qt_project/weacon/build",
+		"source" : "D:/qt_project/weacon"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

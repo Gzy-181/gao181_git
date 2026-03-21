@@ -1,0 +1,9 @@
+D:/qt_project/weacon/build/CMakeFiles/weacon.dir
+D:/qt_project/weacon/build/CMakeFiles/edit_cache.dir
+D:/qt_project/weacon/build/CMakeFiles/rebuild_cache.dir
+D:/qt_project/weacon/build/CMakeFiles/list_install_components.dir
+D:/qt_project/weacon/build/CMakeFiles/install.dir
+D:/qt_project/weacon/build/CMakeFiles/install/local.dir
+D:/qt_project/weacon/build/CMakeFiles/install/strip.dir
+D:/qt_project/weacon/build/CMakeFiles/weacon_autogen_timestamp_deps.dir
+D:/qt_project/weacon/build/CMakeFiles/weacon_autogen.dir
